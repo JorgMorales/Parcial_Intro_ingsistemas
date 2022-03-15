@@ -13,6 +13,5 @@ Los principales temas que fueron visualizados en las clases correspondientes y f
 * Definición y desenvolvimiento de GitHub así como la codificación en algunos lenguajes y área de trabajo.
 * Propuesta de proyectos funcionales y estables que definan  ayuden al estudiante a ser mejor.
 Entre alguno de los códigos encontrados y utilizados anteriormente para Python o HTML se enlistan:
-
-'print' Utilizado para la impresión de contenido dentro de un programa.
-'if' Sentencia o cíclo selectivo que en base a un vaor lógico realiza una acción
+`print` Utilizado para impresión de valores.
+`if` Sentencia selectiva basada en valores booleanos con el fin de realizar una acción en base al resultado.
