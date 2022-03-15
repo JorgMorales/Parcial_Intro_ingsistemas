@@ -14,6 +14,11 @@ Los principales temas que fueron visualizados en las clases correspondientes y f
 * Programación
     * Todo el contenido abarcado
     * Planteamiento y desarrollo de proyectos.
+
 Entre alguno de los códigos encontrados y utilizados anteriormente para Python o HTML se enlistan:
+
 `print` Utilizado para impresión de valores.
 `if` Sentencia selectiva basada en valores booleanos con el fin de realizar una acción en base al resultado.
+
+Dicho proceso de aprendizaje se ha desarrollado con colaboradores o compañeros tales como: @EstuardoVasquez
+
