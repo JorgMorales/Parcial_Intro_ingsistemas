@@ -22,3 +22,4 @@ Entre alguno de los códigos encontrados y utilizados anteriormente para Python 
 
 Dicho proceso de aprendizaje se ha desarrollado con colaboradores o compañeros tales como: @EstuardoVasquez
 
+print("Jorge Luis Morales Huertas carné 1586322")
